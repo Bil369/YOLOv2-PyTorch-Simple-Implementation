@@ -40,7 +40,7 @@
 #device = torch.device('cuda')
 device = torch.device('cpu')
 ```
-下载预训练好的模型 YOLOv1_Resnet50.pth （[下载地址（提取码：s5h5）](https://pan.baidu.com/s/1OJe9J9Q4H0G0bxVQpImt7A)）并放在同一目录下。
+下载预训练好的模型（[下载地址（提取码：s5h5）](https://pan.baidu.com/s/1OJe9J9Q4H0G0bxVQpImt7A)）并放在同一目录下。
 
 在 Jupyter Notebook 中运行以下代码：
 ```python
@@ -58,7 +58,7 @@ predictImage('testImage.JPG')
 #device = torch.device('cuda')
 device = torch.device('cpu')
 ```
-下载预训练好的模型 YOLOv2_Resnet50.pth （[下载地址（提取码：s5h5）](https://pan.baidu.com/s/1OJe9J9Q4H0G0bxVQpImt7A)）并放在同一目录下。
+下载预训练好的模型（[下载地址（提取码：s5h5）](https://pan.baidu.com/s/1OJe9J9Q4H0G0bxVQpImt7A)）并放在同一目录下。
 
 在 Jupyter Notebook 中运行以下代码：
 ```python
@@ -79,7 +79,7 @@ device = torch.device('cpu')
 
 下载 PASCAL VOC 2007 test 数据集（[下载地址](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar)），并将其中的 JPEGImages 和 Annotations 单独放到一个目录。
 
-下载预训练好的模型 YOLOv2_Resnet50.pth （[下载地址（提取码：s5h5）](https://pan.baidu.com/s/1OJe9J9Q4H0G0bxVQpImt7A)）并放在同一目录下。
+下载预训练好的模型（[下载地址（提取码：s5h5）](https://pan.baidu.com/s/1OJe9J9Q4H0G0bxVQpImt7A)）并放在同一目录下。
 
 在 Jupyter Notebook 中运行以下代码：
 ```python
